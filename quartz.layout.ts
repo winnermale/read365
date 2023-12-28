@@ -5,6 +5,9 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
+  afterBody: [
+    Component.Graph(),
+  ]
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
