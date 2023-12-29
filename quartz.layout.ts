@@ -42,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
           drag: false, // whether to allow panning the view around
           zoom: true, // whether to allow zooming in and out
           depth: 1, // how many hops of notes to display
-          scale: 3, // default view scale
+          scale: 4, // default view scale
           repelForce: 0.5, // how much nodes should repel each other
           centerForce: 1, // how much force to use when trying to center the nodes
           linkDistance: 15, // how long should the links be by default?
@@ -55,7 +55,7 @@ export const defaultContentPageLayout: PageLayout = {
           drag: false,
           zoom: true,
           depth: -1,
-          scale: 2,
+          scale: 3,
           repelForce: .1,
           centerForce: 1,
           linkDistance: 20,

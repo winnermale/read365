@@ -7,4 +7,4 @@ Here is the note where everything has started: [[29 December 2023]].
 
 # Navigation
 
-- [[FAQs]]
+- [[FAQ]]
