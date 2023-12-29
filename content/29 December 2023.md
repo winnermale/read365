@@ -3,7 +3,7 @@ tags:
   - Day
 ---
 
-[[Welcome]]
+[[Welcome]].
 
 [[30 December 2023]]
 
