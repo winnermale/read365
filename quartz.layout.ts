@@ -42,11 +42,11 @@ export const defaultContentPageLayout: PageLayout = {
           drag: false, // whether to allow panning the view around
           zoom: true, // whether to allow zooming in and out
           depth: 1, // how many hops of notes to display
-          scale: 4, // default view scale
-          repelForce: 0.5, // how much nodes should repel each other
+          scale: 3, // default view scale
+          repelForce: 0.6, // how much nodes should repel each other
           centerForce: 1, // how much force to use when trying to center the nodes
           linkDistance: 15, // how long should the links be by default?
-          fontSize: 0.2, // what size should the node labels be?
+          fontSize: 0.20, // what size should the node labels be?
           opacityScale: 5, // how quickly do we fade out the labels when zooming out?
           removeTags: [], // what tags to remove from the graph
           showTags: true, // whether to show tags in the graph
