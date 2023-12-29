@@ -55,12 +55,12 @@ export const defaultContentPageLayout: PageLayout = {
           drag: true,
           zoom: true,
           depth: -1,
-          scale: 5,
-          repelForce: 0.1,
+          scale: 3,
+          repelForce: 0.05,
           centerForce: 1,
-          linkDistance: 10,
+          linkDistance: 30,
           fontSize: 0.4,
-          opacityScale: 5,
+          opacityScale: 3,
           removeTags: [], // what tags to remove from the graph
           showTags: true, // whether to show tags in the graph
         },
