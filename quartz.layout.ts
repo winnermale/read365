@@ -23,7 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Breadcrumbs(),
     // Component.ArticleTitle(),
     // Component.ContentMeta(),
-    Component.TagList(),
+    // Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
@@ -42,7 +42,7 @@ export const defaultContentPageLayout: PageLayout = {
           drag: false, // whether to allow panning the view around
           zoom: true, // whether to allow zooming in and out
           depth: 1, // how many hops of notes to display
-          scale: 4, // default view scale
+          scale: 3, // default view scale
           repelForce: 0.5, // how much nodes should repel each other
           centerForce: 1, // how much force to use when trying to center the nodes
           linkDistance: 15, // how long should the links be by default?
@@ -52,16 +52,16 @@ export const defaultContentPageLayout: PageLayout = {
           showTags: true, // whether to show tags in the graph
         },
         globalGraph: {
-          drag: true,
+          drag: false,
           zoom: true,
           depth: -1,
-          scale: 3,
-          repelForce: 0.05,
+          scale: 2,
+          repelForce: .1,
           centerForce: 1,
-          linkDistance: 30,
-          fontSize: 0.4,
-          opacityScale: 3,
-          removeTags: [], // what tags to remove from the graph
+          linkDistance: 20,
+          fontSize: 0.2,
+          opacityScale: 5,
+          removeTags: ["Day"], // what tags to remove from the graph
           showTags: true, // whether to show tags in the graph
         },
       }
