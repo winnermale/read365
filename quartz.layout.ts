@@ -46,3 +46,13 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+// Omit files in Explorer
+
+Component.Explorer({
+  filterFn: (node) => {
+    // set containing names of everything you want to filter out
+    const omit = new Set(["Journal", "tags", "hosting"])
+    return !omit.has(node.name.toLowerCase())
+  },
+})
