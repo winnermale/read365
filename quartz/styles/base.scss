@@ -80,7 +80,7 @@ a {
 
 .desktop-only {
   display: initial;
-  @media all and (max-width: $fullPageWidth, min-width: 2024px) {
+  @media all and (max-width: $fullPageWidth) and (min-width: 2024px) {
     display: none;
   }
 }
