@@ -1,0 +1,2 @@
+- [ ] Create the first week's list.
+- [ ] Announce the project on IG.
