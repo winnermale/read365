@@ -26,7 +26,15 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(
+      {
+        filterFn: (node) => {
+          // set containing names of everything you want to filter out
+          const omit = new Set(["Journal", "tags", "hosting"])
+          return !omit.has(node.name.toLowerCase())
+        },
+      }
+    )),
   ],
   right: [
     Component.Graph(),
@@ -46,13 +54,3 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
-
-// Omit files in Explorer
-
-Component.Explorer({
-  filterFn: (node) => {
-    // set containing names of everything you want to filter out
-    const omit = new Set(["Journal", "tags", "hosting"])
-    return !omit.has(node.name.toLowerCase())
-  },
-})
