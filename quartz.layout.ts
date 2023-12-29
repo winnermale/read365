@@ -7,6 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
+      Website: "https://efe.ooo",
       Instagram: "https://instagram.com/winnermale",
       Twitter: "https://twitter.com/winnermale",
     },
@@ -20,7 +21,6 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.ArticleTitle(),
     // Component.ContentMeta(),
     Component.TagList(),
-    Component.(Component.Explorer()),
   ],
   left: [
     Component.PageTitle(),
@@ -30,9 +30,10 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.Explorer(),
     Component.Backlinks(),
+    Component.Graph(),
   ],
 }
 
