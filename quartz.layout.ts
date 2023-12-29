@@ -4,7 +4,10 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    // Component.Explorer(),
+    // Component.Graph(),
+  ],
   footer: Component.Footer({
     links: {
       Website: "https://efe.ooo",
@@ -31,9 +34,9 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Explorer(),
-    Component.Backlinks(),
-    Component.Graph(),
+    // Component.Explorer(),
+    // Component.Backlinks(),
+    (Component.Graph()),
   ],
 }
 
