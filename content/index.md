@@ -1,7 +1,7 @@
 ---
 title: Welcome to Read365.
 ---
-Read365 is the seed of a collective reading experiment.
+Welcome to Read365.
 
 Here is the note where everything has started: [[29 December 2023]].
 
