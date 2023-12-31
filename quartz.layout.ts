@@ -55,10 +55,10 @@ export const defaultContentPageLayout: PageLayout = {
           drag: false,
           zoom: true,
           depth: -1,
-          scale: 3,
-          repelForce: .1,
+          scale: 1,
+          repelForce: .03,
           centerForce: 1,
-          linkDistance: 20,
+          linkDistance: 15,
           fontSize: 0.2,
           opacityScale: 5,
           removeTags: ["Day"], // what tags to remove from the graph
