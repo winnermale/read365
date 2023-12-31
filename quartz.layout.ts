@@ -21,9 +21,13 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
+    // Component.Explorer(),
     // Component.ArticleTitle(),
     // Component.ContentMeta(),
     // Component.TagList(),
+    // Component.RecentNotes(
+      // { filter: field: "Day"  }
+    //),
   ],
   left: [
     Component.PageTitle(),
