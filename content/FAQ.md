@@ -3,10 +3,10 @@
 > 
 > Read365 is an effort to read 365 books in 365 days as a self-experimentation by me, Efe.
 > 
-> Oh, and it is also a spark for a collective reading experience, a warm invitation to you, should you choose to contribute anytime you want. Well... Technically it has to be some time in year 2024.
+> Oh, and also it is a spark for a collective reading experience, a warm invitation to you, should you choose to contribute anytime you want.... Well, technically it has to be some time in year 2024. But you get the message.
 
 > [!faq]- What is wrong with you?
-> See, that's the point. I really don't know, and I hope to find an answer in books...
+> See, that's the point. I really don't know, and I was hoping to find an answer in books...
 > 
 > No, it was a joke. The goal of Read365 is two-fold:
 > 1. To build a foundation in skills I assume I need to help you more effectively.
