@@ -3,8 +3,8 @@ title: Welcome to Read365.
 ---
 Welcome to Read365.
 
-Here is the note where everything has started: [[29 December 2023]].
+I believe reading is still the most cost-effective activity to invest in yourself in 2024. That is why I've decided to read 365 books in 2024 in my spare time.
 
-# Navigation
+[[Backstory]]
 
-- [[FAQ]]
+[[FAQ|Frequently Asked Questions]]

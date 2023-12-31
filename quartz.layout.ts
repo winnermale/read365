@@ -46,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
           repelForce: 0.6, // how much nodes should repel each other
           centerForce: 1, // how much force to use when trying to center the nodes
           linkDistance: 15, // how long should the links be by default?
-          fontSize: 0.20, // what size should the node labels be?
+          fontSize: 0.25, // what size should the node labels be?
           opacityScale: 5, // how quickly do we fade out the labels when zooming out?
           removeTags: [], // what tags to remove from the graph
           showTags: true, // whether to show tags in the graph

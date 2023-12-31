@@ -1,3 +1,42 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Custom color for H1 */
+h1 {
+    color: #CF4255; /* Replace with your preferred color */
+}
+
+/* Custom color for H2 */
+h2 {
+    color: #D47640; /* Replace with your preferred color */
+}
+
+/* Custom color for H3 */
+h3 {
+    color: #E4B567; /* Replace with your preferred color */
+}
+
+/* Custom color for H4 */
+h4 {
+    color: #A7C373; /* Replace with your preferred color */
+}
+
+h5 {
+    color: #6C9ABB; /* Replace with your preferred color */
+}
+
+/*
+root {
+    --light: #e1d9c2; // background
+    --dark: #A75239; // Markdown Heading
+    --secondary: #303f9f; // Link
+    --tertiary: #795548; // Title Hover
+    --visited: #afbfc9; // Visited Node
+    --primary: #f28482; // Current Node
+    --gray: #444444; // text on page
+    --lightgray: #d30f0f; // Ctrl K  background
+    --outlinegray: #dadada95; // Graph outline
+    --million-progress-bar-color: var(--secondary);
+}
+*/

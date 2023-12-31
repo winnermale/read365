@@ -46,6 +46,7 @@ ul,
   fill: var(--darkgray);
   overflow-wrap: anywhere;
   hyphens: auto;
+  font-size: 14;
 }
 
 .math {
@@ -101,7 +102,7 @@ a {
 
   & article {
     & > h1 {
-      font-size: 2rem;
+      font-size: 1.6rem;
     }
 
     & li:has(> input[type="checkbox"]) {
@@ -265,7 +266,7 @@ h6 {
   &[id] > a[href^="#"] {
     margin: 0 0.5rem;
     opacity: 0;
-    transition: opacity 0.2s ease;
+    transition: opacity 0.5s ease;
     transform: translateY(-0.1rem);
     display: inline-block;
     font-family: var(--codeFont);
