@@ -1,4 +1,3 @@
-# To inspire you to read actual books.
 
 To be more specific, it is *to inspire humanity to read one book per month per person*.
 
