@@ -90,17 +90,18 @@ a {
   display: none;
   @media all and (max-width: $fullPageWidth) {
     display: initial;
+    margin: 2rem;
   }
 }
 
 .page {
   @media all and (max-width: $fullPageWidth) {
     margin: 0 auto;
-    margin-left: 1rem;
-    margin-right: 1rem;
+    // margin-left: 1rem;
+    // margin-right: 1rem;
     padding: 0 1rem;
     // padding-left: 5rem;
-    //padding-right: 5rem;
+    // padding-right: 5rem;
     max-width: $pageWidth;
   }
 
