@@ -46,7 +46,7 @@ ul,
   fill: var(--darkgray);
   overflow-wrap: anywhere;
   hyphens: auto;
-  font-size: 14;
+  font-size: 15;
 }
 
 .math {
@@ -58,7 +58,7 @@ ul,
 a {
   font-weight: 600;
   text-decoration: none;
-  transition: color 0.2s ease;
+  transition: color 0.5s ease;
   color: var(--secondary);
 
   &:hover {
