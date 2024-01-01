@@ -11,8 +11,9 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       // Website: "https://efe.ooo",
-      Instagram: "https://instagram.com/winnermale",
-      Twitter: "https://twitter.com/winnermale",
+      YouTube: "https://youtube.com/@read365org",
+      Instagram: "https://instagram.com/read365org",
+      Twitter: "https://twitter.com/read365org",
     },
   }),
 }
@@ -25,9 +26,26 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.ArticleTitle(),
     // Component.ContentMeta(),
     // Component.TagList(),
-    // Component.RecentNotes(
-      // { filter: field: "Day"  }
-    //),
+    Component.RecentNotes(
+      { filter: (file) => {
+        // Add the tags you want to keep here (please lowercase your entries for this to work properly)
+        const keep = new Set(["day", "custom"])
+      
+        // Wether to keep current note or not (defaults to false as you only want to keep notes that contain your tag)
+        let shouldKeep = false
+      
+        // Check if tag we're looking for (keep) is contained in any of the frontmatter tags
+        for (const tag of file.frontmatter?.tags!) {
+          if (keep.has(tag.toLowerCase())) {
+            shouldKeep = true
+            break
+          }
+        }
+      
+        return shouldKeep
+      }
+      }
+    ),
   ],
   left: [
     Component.PageTitle(),

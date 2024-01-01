@@ -1,5 +1,2 @@
-This is a wonderful book.
-
-## Remarks
-
-- Make use of the [[Habit Stacking]].
+Sample text.  
+This is a wonderful book that talks about... You guessed it right. Habits.

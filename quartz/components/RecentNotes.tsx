@@ -15,7 +15,7 @@ interface Options {
 }
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
-  title: "Today",
+  title: "Jump to Today:",
   limit: 1,
   linkToMore: false,
   filter: () => true,
@@ -50,12 +50,12 @@ export default ((userOpts?: Partial<Options>) => {
                       </a>
                     </h3>
                   </div>
-                  {page.dates && (
+                {/*  {page.dates && (
                     <p class="meta">
                       <Date date={getDate(cfg, page)!} />
-                    </p>
-                  )}
-                  <ul class="tags">
+                    </p> 
+                  )} */}
+                 {/* <ul class="tags">
                     {tags.map((tag) => (
                       <li>
                         <a
@@ -66,7 +66,7 @@ export default ((userOpts?: Partial<Options>) => {
                         </a>
                       </li>
                     ))}
-                  </ul>
+                    </ul> */}
                 </div>
               </li>
             )
