@@ -11,9 +11,11 @@ Let's try to frame this little challenge.
 
 Okay, it sounded a little bit try-hard I must admit.
 
-But I know there are countless people who are willing to read, yet for some reason cannot create the time to read. So I have decided to document my year-long reading journey online, to inspi I imagine Read365 to be *a harbor for reading together*, a calm place for anyone that aspires to read regularly and to consistently improve themselves throughout the year.
+But I know there are countless people who are willing to read, yet for some reason cannot create the time to read on a daily basis. So I have decided to document my year-long reading journey online, to inspire those who just need a daily reminder to read a couple pages. 
 
-And finally, I will be donating all 365 books to a high school library at the end of the year, because you know what they say: *Sharing is caring*.
+I imagine Read365 to be *a harbor for reading together*, a calm place for anyone that aspires to read regularly and to consistently improve themselves throughout the year.
+
+And at the end of the year, I will be donating all 365 books to a high school library, because you know what they say: *Sharing is caring*.
 
 Whoever reading this, I wish you a winning year. 
 
