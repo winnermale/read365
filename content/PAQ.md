@@ -36,10 +36,12 @@
 > 
 > I will be reading mostly non-fiction books that seemingly have advices that I could immediately test in my own life. The book [[Atomic Habits]] is a typical example. Also I will sprinkle some quality fiction here and there. I mean I should be needing to entertain myself at some point. Just a guess.
 > 
+> I am used to read multiple books simultaneously, and I will probably be doing the same throughout the year. That said, I will limit the books I am actively reading to 7. Why 7? Because 7 is my lucky number.
+> 
 > I will be choosing a bunch of books at the beginning of each week, to explore the questions popping from my previous reads. E.g. whilst I'm reading a book on how to establish a strong organizational culture, I might notice that the author emphasizes adopting a particular attitude, behavior or strategy in a domain that I'm not even remotely familiar with. And that means I will most probably be digging into that suggestion next week via some new book about the subject, even when the context might be slightly different.
 
-> [!faq]- What's in it for me?
-> You can simply follow the Read365 experiment throughout the year to benefit it in number of ways.
+> [!faq]- Cool, but what's in it for me?
+> Well, by following the Read365 experiment throughout the year, you can benefit it in number of ways.
 > 
 > 1. Think of Read365 as a harbor for reading together, that you could visit anytime when you feel the need of an initial push to grab the book you're curious about, and to read a couple pages.
 > 1. Check my weekly book picks that you might be interested. I see each book as a ground for us to synthesize new perspectives together, whether you have some intent to serve humanity at a global scale, or you're just curious about sharpening yourself in relatively softer skills such as communication, systems thinking, storytelling, gathering people, creating self-managing teams, marketing or writing for self-expression.
