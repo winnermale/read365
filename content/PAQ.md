@@ -11,7 +11,7 @@
 > See, that's the point. I really don't know, and I was just hoping to find an answer in books...
 > 
 > That was the joke part. The goal of Read365 is two-fold:
-> 1. To build a solid foundation of knowledge to effectively help people.
+> 1. To build a solid foundation of knowledge to effectively help humanity.
 > 2. *[[To inspire you to read actual books.]]*
 
 > [!faq]- But why?
@@ -54,3 +54,9 @@
 > That said, there are a number of ways to contribute to this experiment and to help grow it:
 > 1. Grab your book and join us in our daily reads sessions, streaming every day on our [YouTube](https://youtube.com/@read365org) channel. Just keep in mind: [[Reading is the only way to help others read.]] Maybe writing too. And probably proofreading and editing as well. And publishing of course. And there's also the distribution channels, marketing, the light bulbs and everything... Anyway, you get the point.
 > 2. If you're a Turkish human being interested in expressing yourself globally, you're invited to our private [Discord](https://discord.gg/Pq9AH2Ra) space where we together learn and practice how to express ourselves. This private space will have a nominal membership fee as a paywall to keep the not-so-relevant people outside, and to nurture a psychologically safe place for us.
+
+Let's try to frame this little challenge.
+
+> If I had one year to initiate a global change for the better, and were allowed to read books only, which books would I choose?
+
+Okay, I admit it sounded a little bit too much.
