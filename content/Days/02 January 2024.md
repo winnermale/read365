@@ -4,6 +4,9 @@ tags:
 date: 2024-01-02
 ---
 
+==Previous== [[01 January 2024]]
+
+# January 2nd, 2024
 ## The Plan
 
 - Today's session of our daily [YouTube](https://www.youtube.com/@read365org) stream will start at 20:30 GMT+3.
@@ -24,7 +27,3 @@ No change happens in a vacuum. Whenever you want to make a change in your own li
 And here's the implicit hypothesis of reading 365 books in 365 days: I am going to become a completely different person, not just because of the books I read, but because the very act of reading 365 books demands me to undergo a deep identity level change.
 
 See you on the other side.
-
----
-
-==Previous== [[01 January 2024]]
