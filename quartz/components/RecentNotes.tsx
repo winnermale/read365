@@ -15,8 +15,8 @@ interface Options {
 }
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
-  title: "Recent Notes",
-  limit: 3,
+  title: "Jump to Today:",
+  limit: 1,
   linkToMore: false,
   filter: () => true,
   sort: byDateAndAlphabetical(cfg),
@@ -25,6 +25,11 @@ const defaultOptions = (cfg: GlobalConfiguration): Options => ({
 export default ((userOpts?: Partial<Options>) => {
   function RecentNotes({ allFiles, fileData, displayClass, cfg }: QuartzComponentProps) {
     const opts = { ...defaultOptions(cfg), ...userOpts }
+
+    if (fileData.slug !== "index") {
+      return <></>
+    }
+
     const pages = allFiles.filter(opts.filter).sort(opts.sort)
     const remaining = Math.max(0, pages.length - opts.limit)
     return (
@@ -45,12 +50,12 @@ export default ((userOpts?: Partial<Options>) => {
                       </a>
                     </h3>
                   </div>
-                  {page.dates && (
+                {/*  {page.dates && (
                     <p class="meta">
                       <Date date={getDate(cfg, page)!} />
-                    </p>
-                  )}
-                  <ul class="tags">
+                    </p> 
+                  )} */}
+                 {/* <ul class="tags">
                     {tags.map((tag) => (
                       <li>
                         <a
@@ -61,7 +66,7 @@ export default ((userOpts?: Partial<Options>) => {
                         </a>
                       </li>
                     ))}
-                  </ul>
+                    </ul> */}
                 </div>
               </li>
             )

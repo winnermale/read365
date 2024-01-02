@@ -46,6 +46,7 @@ ul,
   fill: var(--darkgray);
   overflow-wrap: anywhere;
   hyphens: auto;
+  font-size: 16;
 }
 
 .math {
@@ -57,7 +58,7 @@ ul,
 a {
   font-weight: 600;
   text-decoration: none;
-  transition: color 0.2s ease;
+  transition: color 0.5s ease;
   color: var(--secondary);
 
   &:hover {
@@ -94,14 +95,17 @@ a {
 
 .page {
   @media all and (max-width: $fullPageWidth) {
+    // margin: 0 auto;
     margin: 0 auto;
-    padding: 0 1rem;
+    // padding: 0 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
     max-width: $pageWidth;
   }
 
   & article {
     & > h1 {
-      font-size: 2rem;
+      font-size: 1.6rem;
     }
 
     & li:has(> input[type="checkbox"]) {
@@ -265,7 +269,7 @@ h6 {
   &[id] > a[href^="#"] {
     margin: 0 0.5rem;
     opacity: 0;
-    transition: opacity 0.2s ease;
+    transition: opacity 0.5s ease;
     transform: translateY(-0.1rem);
     display: inline-block;
     font-family: var(--codeFont);

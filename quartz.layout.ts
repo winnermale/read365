@@ -4,11 +4,16 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    // Component.Explorer(),
+    // Component.Graph(),
+  ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      // Website: "https://efe.ooo",
+      YouTube: "https://youtube.com/@read365org",
+      Instagram: "https://instagram.com/read365org",
+      Twitter: "https://twitter.com/read365org",
     },
   }),
 }
@@ -17,21 +22,72 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
+    // Component.Explorer(),
+    // Component.ArticleTitle(),
+    // Component.ContentMeta(),
+    // Component.TagList(),
+    Component.RecentNotes(
+      { filter: (file) => {
+        // Add the tags you want to keep here (please lowercase your entries for this to work properly)
+        const keep = new Set(["day", "custom"])
+      
+        // Wether to keep current note or not (defaults to false as you only want to keep notes that contain your tag)
+        let shouldKeep = false
+      
+        // Check if tag we're looking for (keep) is contained in any of the frontmatter tags
+        for (const tag of file.frontmatter?.tags!) {
+          if (keep.has(tag.toLowerCase())) {
+            shouldKeep = true
+            break
+          }
+        }
+      
+        return shouldKeep
+      }
+      }
+    ),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    // Component.Explorer(),
+    // Component.Backlinks(),
+    (Component.Graph(
+      {
+        localGraph: {
+          drag: false, // whether to allow panning the view around
+          zoom: true, // whether to allow zooming in and out
+          depth: 1, // how many hops of notes to display
+          scale: 3, // default view scale
+          repelForce: 0.6, // how much nodes should repel each other
+          centerForce: 1, // how much force to use when trying to center the nodes
+          linkDistance: 15, // how long should the links be by default?
+          fontSize: 0.25, // what size should the node labels be?
+          opacityScale: 5, // how quickly do we fade out the labels when zooming out?
+          removeTags: [], // what tags to remove from the graph
+          showTags: true, // whether to show tags in the graph
+        },
+        globalGraph: {
+          drag: false,
+          zoom: true,
+          depth: -1,
+          scale: 1,
+          repelForce: .03,
+          centerForce: 1,
+          linkDistance: 15,
+          fontSize: 0.2,
+          opacityScale: 5,
+          removeTags: ["Day"], // what tags to remove from the graph
+          showTags: true, // whether to show tags in the graph
+        },
+      }
+    )),
   ],
 }
 
