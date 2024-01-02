@@ -1,6 +1,7 @@
 ---
 tags:
   - Day
+date: 2024-01-01
 ---
 # Let's begin.
 

@@ -28,22 +28,35 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.TagList(),
     Component.RecentNotes(
       { filter: (file) => {
-        // Add the tags you want to keep here (please lowercase your entries for this to work properly)
-        const keep = new Set(["day", "custom"])
+        // Add the tags you want to include and exclude here
+        const includeTag = "day";
+        const excludeTag = "template";
+        
+        // Whether to keep current note or not (defaults to false as you only want to keep notes that contain your include tag but not your exclude tag)
+        let shouldKeep = false;
+        
+        // A flag to indicate if the exclude tag is found
+        let foundExcludeTag = false;
       
-        // Wether to keep current note or not (defaults to false as you only want to keep notes that contain your tag)
-        let shouldKeep = false
-      
-        // Check if tag we're looking for (keep) is contained in any of the frontmatter tags
-        for (const tag of file.frontmatter?.tags!) {
-          if (keep.has(tag.toLowerCase())) {
-            shouldKeep = true
-            break
+        // Check if the include tag is present and the exclude tag is absent in any of the frontmatter tags
+        if (file.frontmatter?.tags) {
+          for (const tag of file.frontmatter.tags) {
+            const lowerTag = tag.toLowerCase();
+            // Check if we have the tag to include
+            if (lowerTag === includeTag) {
+              shouldKeep = true;
+            }
+            // Check if we have the tag to exclude
+            if (lowerTag === excludeTag) {
+              foundExcludeTag = true;
+              break;  // No need to check further tags since exclude tag is found
+            }
           }
         }
       
-        return shouldKeep
-      }
+        // Determine final keep status: keep only if include tag is found and exclude tag is not found
+        return shouldKeep && !foundExcludeTag;
+      },
       }
     ),
   ],
