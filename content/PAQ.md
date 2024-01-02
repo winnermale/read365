@@ -7,10 +7,10 @@
 > 
 > Oh, and also it is a spark for a collective reading experience, a warm invitation to you, should you choose to contribute to it anytime you want.... Well, technically it has to be some time in year 2024. But you get the message.
 
-> [!faq]- What is wrong with you dude?
+> [!faq]- What is wrong with you?
 > See, that's the point. I really don't know, and I was just hoping to find an answer in books...
 > 
-> That was the joke part. The goal of Read365 is two-fold:
+> The goal of Read365 is two-fold:
 > 1. To build a solid foundation of knowledge to effectively help humanity.
 > 2. *[[To inspire you to read actual books.]]*
 
@@ -28,7 +28,7 @@
 > 
 > But why is that so? Because any problem of humanity is driven by the scarcity in perspectives at an individual level. Access to perspectives is a human right, as much as access to water or internet is a human right.
 > 
-> And the premise for that is simple: *You always need a new perspective in order to solve your existing problem.* Your existing perspective will only grow your existing problem further, because it is your existing perspective that has led to your existing problem in the first place. Forgive me for using the word "existing" excessively. But I can't help it, they just keep existing... (Sorry.)
+> And the premise for that is simple: *You always need a new perspective in order to solve your existing problem.* Your existing perspective will only grow your existing problem further, because it is your existing perspective that has led to your existing problem in the first place. Forgive me for using the word "existing" excessively. But I can't help it, they just keep existing... (Sorry!)
 > 
 > Anyway... You have to somehow earn that new perspective to solve your problem. And guess what's the cheapest medium to store perspectives and to effectively deliver them to people at scale, so that people could synthesize new perspectives to solve existing problems?
 
