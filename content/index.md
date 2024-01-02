@@ -18,4 +18,9 @@ Let's begin.
 Efe  
 January 1st, 2024
 
-[[PAQ|Probably Asked Questions]]
+---
+
+## Start Here
+
+- [[01 January 2024]]
+- [[PAQ|Probably Asked Questions]]

@@ -2,7 +2,6 @@
 tags:
   - Day
 date: 2024-01-02
-previous: "[[01 January 2024]]"
 ---
 
 ## The Plan
@@ -14,7 +13,7 @@ previous: "[[01 January 2024]]"
 
 Even though I've read many articles by [[James Clear]] and read most of his book some years ago, I've not actually find the chance to finish it. I notice this pattern of myself not only in book reading, but in consuming any type of content that would take relatively long time to finish. I don't know the end of many popular tv series. I've left many good fiction series unfinished. I didn't even watch the last couple seasons of my favourite series of all time, [[Seinfeld]].
 
-But the reason of choosing the book is different. I already know that, to be able to finish 365 books in a year while working full-time on your own business demands a completely new set of behaviors, that are aligned with a future self-image you intend to become. Which means, I must master how to regulate my own behaviors, habits and routines as soon as possible.
+But the reason of choosing the book is different. I already know that, to be able to finish 365 books in a year while working full-time demands a completely new set of behaviors, that are aligned with a future self-image you intend to become. Which means, I must master how to regulate my own behaviors, habits and routines as soon as possible.
 
 PS: Reading a book alone definitely will have almost no impact on your own life, unless you put the work to experiment with it in your own life. Remember, your life's a laboratory. Allow yourself to break things for the sake of finding the truth.
 
@@ -25,3 +24,7 @@ No change happens in a vacuum. Whenever you want to make a change in your own li
 And here's the implicit hypothesis of reading 365 books in 365 days: I am going to become a completely different person, not just because of the books I read, but because the very act of reading 365 books demands me to undergo a deep identity level change.
 
 See you on the other side.
+
+---
+
+==Previous== [[01 January 2024]]

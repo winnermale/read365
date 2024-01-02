@@ -1,7 +1,5 @@
 ---
-tags:
-  - Day
-  - template
 date: 
-previous: 
 ---
+
+==Previous== 

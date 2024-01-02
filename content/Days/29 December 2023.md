@@ -1,7 +1,6 @@
 ---
 tags:
   - Day
-Next: "[[30 December 2023]]"
 date: 2023-12-29
 ---
 - This is the first note about [[Atomic Habits]].
