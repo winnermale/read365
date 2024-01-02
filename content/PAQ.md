@@ -22,7 +22,7 @@
 > 
 > Think about it for a moment.
 > 
-> No more domestic violence. No more energy waste. No more terrorism. No more water & food waste. No more climate crisis. No more cold shower hype...
+> No more domestic violence. No more energy waste. No more terrorism. No more water & food waste. No more climate crisis. No more cold showers...
 > 
 > Well, I should warn you that my hypothesis doesn't promise to solve any future problem that humanity doesn't even have yet. So, don't expect a WD-40 here. But still, any chronic global issue we're facing right now as we enter 2024 would definitely go away.
 > 
@@ -30,7 +30,9 @@
 > 
 > And the premise for that is simple: *You always need a new perspective in order to solve your existing problem.* Your existing perspective will only grow your existing problem further, because it is your existing perspective that has led to your existing problem in the first place. Forgive me for using the word "existing" excessively. But I can't help it, they just keep existing... (Sorry!)
 > 
-> Anyway... You have to somehow earn that new perspective to solve your problem. And guess what's the cheapest medium to store perspectives and to effectively deliver them to people at scale, so that people could synthesize new perspectives to solve existing problems?
+> And what's more, by switching back and forth between different perspectives, you actually build a perspective muscle. You gain a meta awareness of perspective abundance. Such a shift in your paradigm is in and of itself a new perspective, one that transcends and includes your previous perspective, and it increases the chances that whenever you bump into a new problem, you'll more likely to stop and think that there's probably a perspective that would help you solve the problem, even when you don't have such perspective yet. And I hear you. There's a lot of perspectives going on in this paragraph too.
+> 
+> Anyway... You have to somehow earn that new perspective to solve your problem. And guess what's the cheapest medium to store perspectives and to effectively deliver them to people at scale, so that people could synthesize new perspectives to solve existing problems? 
 
 > [!faq]- What books do you plan to read?
 > 
