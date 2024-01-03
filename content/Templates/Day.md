@@ -1,7 +1,7 @@
 ---
-date: 
+date: {{date:YYYY-MM-DD}}
 tags:
-  - template
+  - Day
 ---
 
 ==Previous== 

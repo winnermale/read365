@@ -19,4 +19,9 @@ Because believe it or not, anything has a brand. Not just businesses, but indivi
 
 Building a StoryBrand is a book that I read long time ago, that explains the fundamentals of establishing a brand identity adhering to the storytelling basics. It is a good starter that is somewhere between [[Branding]], [[Marketing]] and [[Storytelling]] domains.
 
-==PS== I ended up starting the book [[Scrum - The Art of Doing Twice the Work in Half the Time]] before Building a Storybrand.
+==PS== I ended up reading the book [[Scrum - The Art of Doing Twice the Work in Half the Time]] first.
+
+## Review
+
+- I am taking physical notes way too much while I read books, which is actually how I normally read books. I really enjoy contemplating on a book I read at a granular level. But I now realize that I will never be able to finish all 365 books, if I keep reading at this pace. Therefore, I should reduce the amount of notes I take, and selectively focus on the most applicable advice only that I could immediately experiment in my own life.
+- I just noticed that 365 books is challenging from several perspectives, and a prominent challenge is the financial burden it brings. I will be donating all 365 books to a high school library at the end of the year, and therefore I'm allowed to have only the physical copies. As a financial aid, I'd like to design a meaningful donation campaign very soon for other activist readers to support me as they like.
