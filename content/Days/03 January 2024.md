@@ -18,3 +18,5 @@ tags:
 Because believe it or not, anything has a brand. Not just businesses, but individuals. And even materials. Gold as a material has a brand. A pretty strong one. And it is the brand that determines the persistence of that particular thing. What that means is, you better start on consciously shape your own brand to persist in other people's minds.
 
 Building a StoryBrand is a book that I read long time ago, that explains the fundamentals of establishing a brand identity adhering to the storytelling basics. It is a good starter that is somewhere between [[Branding]], [[Marketing]] and [[Storytelling]] domains.
+
+==PS== I ended up starting the book [[Scrum - The Art of Doing Twice the Work in Half the Time]] before Building a Storybrand.
