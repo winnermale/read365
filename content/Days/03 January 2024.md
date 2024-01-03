@@ -1,5 +1,7 @@
 ---
 date: 2024-01-03
+tags:
+  - Day
 ---
 
 ==Previous== [[02 January 2024]]
