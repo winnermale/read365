@@ -55,5 +55,5 @@
 > 
 > That said, there are a number of ways to contribute to this experiment and to help grow it:
 > 1. Grab your book and join us in our daily reads sessions, streaming every day on our [YouTube](https://youtube.com/@read365org) channel. Just keep in mind: [[Reading is the only way to help others read.]] Maybe writing too. And probably proofreading and editing as well. And publishing of course. And there's also the distribution channels, marketing, the light bulbs and everything... Anyway, you get the point.
-> 2. If you're a Turkish human being interested in expressing yourself globally, you're invited to our private [Discord](https://discord.gg/Pq9AH2Ra) space where we together learn and practice how to express ourselves. This private space will have a nominal membership fee as a paywall to keep the not-so-relevant people outside, and to nurture a psychologically safe place for us.
+> 2. If you're a Turkish human being interested in expressing yourself globally, you're invited to our private Discord space (which I'll be announcing soon) where we together learn and practice how to express ourselves online for the better. (Just as I'm doing right now.) This private space will have a nominal membership fee as a paywall to keep the not-so-relevant people outside, and to nurture a psychologically safe place for us.
 

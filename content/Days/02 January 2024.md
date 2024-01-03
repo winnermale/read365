@@ -4,7 +4,7 @@ tags:
 date: 2024-01-02
 ---
 
-==Previous== [[01 January 2024]]
+==Previous== [[02 January 2024]]
 
 # January 2nd, 2024
 ## The Plan
