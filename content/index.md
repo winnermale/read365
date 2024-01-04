@@ -19,7 +19,6 @@ Let's begin.
 Efe  
 January 1st, 2024
 
----
 
 ## Navigate
 
@@ -29,3 +28,4 @@ January 1st, 2024
 - [[./Weeks/index.md|Weeks]]
 - [YouTube Harbor for Reading Together](https://www.youtube.com/@read365org)
 - [[PAQ|Probably Asked Questions]]
+- [[Become a Contributor]]

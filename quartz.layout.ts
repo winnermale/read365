@@ -106,6 +106,8 @@ export const defaultContentPageLayout: PageLayout = {
         },
       }
     )),
+  ],
+  afterBody: [
     Component.OptinIframe(),
   ],
 }
@@ -149,6 +151,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
   ],
   right: [
-    Component.OptinIframe(),
   ],
+  afterBody: [
+    
+  ]
 }

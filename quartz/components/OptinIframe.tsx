@@ -1,6 +1,13 @@
 export default (() => {
     function YourComponent() {
-      return <script async data-uid="6a4d85b2f4" src="https://colossal-leader-5892.ck.page/6a4d85b2f4/index.js"></script>
+      return (
+        <div>
+          <br></br>
+          <h2 style={{ fontSize: '18px' }}>Subscribe to Write52.</h2>
+          <p>  Receive weekly letters I synthesize from the best books.</p>
+          <script async data-uid="6a4d85b2f4" src="https://colossal-leader-5892.ck.page/6a4d85b2f4/index.js"></script>
+        </div>
+      );
     }
    
     YourComponent.beforeDOM = `
