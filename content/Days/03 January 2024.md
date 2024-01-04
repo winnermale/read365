@@ -19,7 +19,7 @@ Because believe it or not, anything has a brand. Not just businesses, but indivi
 
 Building a StoryBrand is a book that I read long time ago, that explains the fundamentals of establishing a brand identity adhering to the storytelling basics. It is a good starter that is somewhere between [[Branding]], [[Marketing]] and [[Storytelling]] domains.
 
-==PS== I ended up reading the book [[Scrum - The Art of Doing Twice the Work in Half the Time]] first.
+==PS== I ended up reading the book [[Scrum]] first.
 
 ## Review
 

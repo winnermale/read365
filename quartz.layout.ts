@@ -84,7 +84,7 @@ export const defaultContentPageLayout: PageLayout = {
           fontSize: 0.25, // what size should the node labels be?
           opacityScale: 5, // how quickly do we fade out the labels when zooming out?
           removeTags: [], // what tags to remove from the graph
-          showTags: false, // whether to show tags in the graph
+          showTags: true, // whether to show tags in the graph
         },
         globalGraph: {
           drag: false,
@@ -96,7 +96,7 @@ export const defaultContentPageLayout: PageLayout = {
           linkDistance: 20,
           fontSize: 0.2,
           opacityScale: 5,
-          removeTags: ["Day"], // what tags to remove from the graph
+          removeTags: [], // what tags to remove from the graph
           showTags: true, // whether to show tags in the graph
         },
       }
