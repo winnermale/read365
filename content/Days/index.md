@@ -1,6 +1,6 @@
 ---
 title: Days
-tags: Day, index
+tags: Day, Index
 ---
 
 

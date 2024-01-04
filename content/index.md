@@ -1,6 +1,6 @@
 ---
 title: Welcome to Read365.
-tags: index
+tags: Index
 ---
 # Welcome to Read365.
 

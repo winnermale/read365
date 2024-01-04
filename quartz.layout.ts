@@ -88,7 +88,7 @@ export const defaultContentPageLayout: PageLayout = {
           linkDistance: 20, // how long should the links be by default?
           fontSize: 0.20, // what size should the node labels be?
           opacityScale: 5, // how quickly do we fade out the labels when zooming out?
-          removeTags: ["Template", "index"], // what tags to remove from the graph
+          removeTags: ["Template", "index",""], // what tags to remove from the graph
           showTags: true, // whether to show tags in the graph
         },
         globalGraph: {
@@ -126,7 +126,7 @@ export const defaultListPageLayout: PageLayout = {
         linkDistance: 15, // how long should the links be by default?
         fontSize: 0.25, // what size should the node labels be?
         opacityScale: 5, // how quickly do we fade out the labels when zooming out?
-        removeTags: [], // what tags to remove from the graph
+        removeTags: [""], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },
       globalGraph: {
