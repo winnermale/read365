@@ -6,7 +6,7 @@ tags:
 
 ==Previous== [[03 January 2024]]
 
-# The Fourth Day Already?
+# Day 4 Already?
 
 It feels weird I feel like I've accomplished a lot (even though I am one book behind the schedule), and at the same time I feel like time has just flied like crazy these first couple days. Did you feel it?
 

@@ -1,3 +1,3 @@
 ---
-tags: Book, Next
+tags: Books, Next
 ---
