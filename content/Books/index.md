@@ -1,5 +1,6 @@
 ---
 title: Books
+tags: index
 ---
 
 - Here is a list of books that I've been dealing with since the January 1st, 2024. 
