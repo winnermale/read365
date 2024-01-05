@@ -1,10 +1,10 @@
 ---
-tags:
-  - Day
 date: 2024-01-02
+tags: Day
 ---
 
-==Previous== [[01 January 2024]]
+[[01 January 2024|Previous Day]]
+[[03 January 2024|Next Day]]
 
 # January 2nd, 2024
 ## The Plan

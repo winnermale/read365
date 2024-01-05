@@ -1,10 +1,10 @@
 ---
 date: 2024-01-04
-tags:
-  - Day
+tags: Day
 ---
 
-==Previous== [[03 January 2024]]
+[[03 January 2024|Previous Day]]
+[[05 January 2024|Next Day]]
 
 # Day 4 Already?
 
