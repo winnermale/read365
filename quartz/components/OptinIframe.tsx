@@ -4,7 +4,7 @@ export default (() => {
         <div>
           <br></br>
           <h2 style={{ fontSize: '18px' }}>Subscribe to Write52.</h2>
-          <p>  Receive weekly letters I synthesize from the best books on business, psychology, teams, communication, organizations, communities, branding and more.</p>
+          <p>  Receive weekly letters I synthesize from the best books on business, behavioral psychology, team management, communication, learning organizations, communities, branding, and occasionally... Fiction.</p>
           <script async data-uid="6a4d85b2f4" src="https://colossal-leader-5892.ck.page/6a4d85b2f4/index.js"></script>
         </div>
       );
