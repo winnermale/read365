@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
         <hr />
         <p>
           {/* Created by <a href="https://efe.ooo">Efe</a>. © {year} */}
-          Nurtured by Efe. © {year}
+          Nurtured by Efe with care. © {year}
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (

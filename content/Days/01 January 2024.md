@@ -3,7 +3,7 @@ date: 2024-01-01
 tags: Day
 ---
 
-[[02 January 2024|Next Day]]
+[[02 January 2024|Next]]
 
 # Let's begin.
 
