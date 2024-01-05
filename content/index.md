@@ -28,4 +28,4 @@ January 1st, 2024
 - [[./Weeks/index.md|Weeks]]
 - [[PAQ|Probably Asked Questions]]
 - [[Donate a Book]]
-- [YouTube Harbor for Reading Together](https://www.youtube.com/@read365org)
+- [A Harbor for Reading Together](https://www.youtube.com/@read365org)

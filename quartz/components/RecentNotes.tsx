@@ -15,7 +15,7 @@ interface Options {
 }
 
 const defaultOptions = (cfg: GlobalConfiguration): Options => ({
-  title: "Jump to Recent:",
+  title: "Jump to Latest:",
   limit: 1,
   linkToMore: false,
   filter: () => true,
