@@ -3,8 +3,7 @@ date: 2024-01-04
 tags: Day
 ---
 
-[[03 January 2024|Previous]]  
-[[05 January 2024|Next]] 
+[[03 January 2024|Previous]] | [[05 January 2024|Next]] 
 
 # Day 4 Already?
 
