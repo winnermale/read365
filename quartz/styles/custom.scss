@@ -41,3 +41,20 @@ root {
 }
 */
   
+/* Custom highlight color */
+::selection {
+    background: #ffc107; /* Background color of the highlight */
+    color: #000; /* Text color of the highlight */
+  }
+  
+  /* For Mozilla Firefox */
+  ::-moz-selection {
+    background: #ffc107; /* Background color of the highlight */
+    color: #000; /* Text color of the highlight */
+  }
+
+  .text-highlight {
+    background-color: #bd4a5a;
+    padding: 0 0.1rem;
+    border-radius: 5px;
+  }

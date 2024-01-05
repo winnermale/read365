@@ -26,6 +26,6 @@ January 1st, 2024
 - [[./Books/index.md|Books]]
 - [[./Days/index.md|Days]]
 - [[./Weeks/index.md|Weeks]]
-- [YouTube Harbor for Reading Together](https://www.youtube.com/@read365org)
 - [[PAQ|Probably Asked Questions]]
-- [[Become a Contributor]]
+- [[Donate a Book]]
+- [YouTube Harbor for Reading Together](https://www.youtube.com/@read365org)
