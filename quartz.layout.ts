@@ -79,7 +79,7 @@ export const defaultContentPageLayout: PageLayout = {
     (Component.Graph(
       {
         localGraph: {
-          drag: false, // whether to allow panning the view around
+          drag: true, // whether to allow panning the view around
           zoom: true, // whether to allow zooming in and out
           depth: 1, // how many hops of notes to display
           scale: 3, // default view scale
@@ -92,7 +92,7 @@ export const defaultContentPageLayout: PageLayout = {
           showTags: true, // whether to show tags in the graph
         },
         globalGraph: {
-          drag: false,
+          drag: true,
           zoom: true,
           depth: -1,
           scale: 0.8,
@@ -117,7 +117,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), (Component.Graph(
     {
       localGraph: {
-        drag: false, // whether to allow panning the view around
+        drag: true, // whether to allow panning the view around
         zoom: true, // whether to allow zooming in and out
         depth: 2, // how many hops of notes to display
         scale: 3, // default view scale
@@ -130,7 +130,7 @@ export const defaultListPageLayout: PageLayout = {
         showTags: true, // whether to show tags in the graph
       },
       globalGraph: {
-        drag: false,
+        drag: true,
         zoom: true,
         depth: -1,
         scale: 1,
