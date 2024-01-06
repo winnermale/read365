@@ -1,3 +1,6 @@
+---
+publish: true
+---
 
 > [!faq]- What is Read365?
 > 

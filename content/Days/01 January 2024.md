@@ -1,6 +1,7 @@
 ---
 date: 2024-01-01
 tags: Day
+publish: true
 ---
 
 [[02 January 2024|Next]]
