@@ -1,1 +1,0 @@
-[[<% tp.date.now("DD MMMM YYYY", -1, tp.file.title, "DD MMMM YYYY") %>]]

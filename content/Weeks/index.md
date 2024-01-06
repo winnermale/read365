@@ -1,4 +1,0 @@
----
-title: Weeks
-tags: Week
----

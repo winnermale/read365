@@ -1,3 +1,0 @@
----
-tags: Books, Active, Branding
----
