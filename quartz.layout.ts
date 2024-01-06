@@ -29,9 +29,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.RecentNotes(
       { filter: (file) => {
         // Add the tags you want to include and exclude here
-        const includeTag = "day";
-        const excludeTag = "template";
-        const excludeTags = new Set(["template", "index"]);
+        const includeTag = "Day";
+        const excludeTag = "Template";
+        const excludeTags = new Set(["Template", "Index"]);
         
         // Whether to keep current note or not (defaults to false as you only want to keep notes that contain your include tag but not your exclude tag)
         let shouldKeep = false;
@@ -83,12 +83,12 @@ export const defaultContentPageLayout: PageLayout = {
           zoom: true, // whether to allow zooming in and out
           depth: 1, // how many hops of notes to display
           scale: 3, // default view scale
-          repelForce: 0.5, // how much nodes should repel each other
-          centerForce: 0.5, // how much force to use when trying to center the nodes
-          linkDistance: 20, // how long should the links be by default?
+          repelForce: 0.4, // how much nodes should repel each other
+          centerForce: 0.8, // how much force to use when trying to center the nodes
+          linkDistance: 15, // how long should the links be by default?
           fontSize: 0.20, // what size should the node labels be?
           opacityScale: 5, // how quickly do we fade out the labels when zooming out?
-          removeTags: ["Template", "index",""], // what tags to remove from the graph
+          removeTags: ["Template", "Index"], // what tags to remove from the graph
           showTags: true, // whether to show tags in the graph
         },
         globalGraph: {
@@ -101,7 +101,7 @@ export const defaultContentPageLayout: PageLayout = {
           linkDistance: 20,
           fontSize: 0.2,
           opacityScale: 5,
-          removeTags: ["Template", "index"], // what tags to remove from the graph
+          removeTags: ["Template", "Index"], // what tags to remove from the graph
           showTags: true, // whether to show tags in the graph
         },
       }
@@ -122,11 +122,11 @@ export const defaultListPageLayout: PageLayout = {
         depth: 2, // how many hops of notes to display
         scale: 3, // default view scale
         repelForce: 0.2, // how much nodes should repel each other
-        centerForce: 0.4, // how much force to use when trying to center the nodes
+        centerForce: 0.7, // how much force to use when trying to center the nodes
         linkDistance: 20, // how long should the links be by default?
         fontSize: 0.20, // what size should the node labels be?
         opacityScale: 5, // how quickly do we fade out the labels when zooming out?
-        removeTags: [""], // what tags to remove from the graph
+        removeTags: ["Index"], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },
       globalGraph: {
@@ -139,7 +139,7 @@ export const defaultListPageLayout: PageLayout = {
         linkDistance: 30,
         fontSize: 0.4,
         opacityScale: 5,
-        removeTags: ["Day"], // what tags to remove from the graph
+        removeTags: ["Day", "Index"], // what tags to remove from the graph
         showTags: true, // whether to show tags in the graph
       },
     }

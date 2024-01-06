@@ -1,4 +1,6 @@
 ---
 title: Weeks
-tags: Week
+tags:
+  - Week
+  - Index
 ---
