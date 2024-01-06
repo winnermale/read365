@@ -3,7 +3,7 @@ date: 2024-01-05
 tags: Day
 ---
 
-[[04 January 2024|Previous Day]] | [[06 January 2024|Next Day]]
+[[04 January 2024|Previous]] | [[06 January 2024|Next]]
 
 # January 5th.
 ## The Plan

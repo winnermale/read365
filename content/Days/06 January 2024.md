@@ -3,7 +3,7 @@ date: 2024-01-06
 tags: Day
 ---
 
-[[05 January 2024|Previous Day]] | [[07 January 2024|Next Day]]
+[[05 January 2024|Previous]] | [[07 January 2024|Next]]
 
 # January 6th, 2024
 
@@ -20,3 +20,9 @@ What if we'd make up a grand list of books that's able to introduce a high schoo
 If we could have such a collectively curated, evolving and self-updating list of books that we could place in any school library, we could effectively help students discover new domains by following their curiosity.
 
 The earlier someone gets exposed to a variety of paths and discovers the right path to follow, the more impactful the compound effect of their contributions to humanity for the rest of their lives.
+
+## Pivot
+
+- Shape read365 along the way.
+- Pivot when needed. It does not have to remain the same. Apply what you read on read365 itself.
+- Help me build the ultimate 365-book list that a new entrepreneur would benefit. Someone who shifts from being an employee to being an entrepreneur.
