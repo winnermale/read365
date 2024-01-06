@@ -1,6 +1,7 @@
 ---
 date: 2024-01-06
-tags: Day
+tags:
+  - Day
 ---
 
 [[05 January 2024|Previous]] | [[07 January 2024|Next]]

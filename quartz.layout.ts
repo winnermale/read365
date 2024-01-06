@@ -28,10 +28,10 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.TagList(),
     Component.RecentNotes(
       { filter: (file) => {
-        // Add the tags you want to include and exclude here
-        const includeTag = "Day";
-        const excludeTag = "Template";
-        const excludeTags = new Set(["Template", "Index"]);
+        // Add the tags you want to include and exclude here (must be lowercase, because the verification is lowercase)
+        const includeTag = "day";
+        const excludeTag = "template";
+        const excludeTags = new Set(["template", "index"]);
         
         // Whether to keep current note or not (defaults to false as you only want to keep notes that contain your include tag but not your exclude tag)
         let shouldKeep = false;
@@ -82,11 +82,11 @@ export const defaultContentPageLayout: PageLayout = {
           drag: true, // whether to allow panning the view around
           zoom: true, // whether to allow zooming in and out
           depth: 1, // how many hops of notes to display
-          scale: 3, // default view scale
-          repelForce: 0.4, // how much nodes should repel each other
-          centerForce: 0.8, // how much force to use when trying to center the nodes
+          scale: 4, // default view scale
+          repelForce: 0.3, // how much nodes should repel each other
+          centerForce: 0.5, // how much force to use when trying to center the nodes
           linkDistance: 15, // how long should the links be by default?
-          fontSize: 0.20, // what size should the node labels be?
+          fontSize: 0.15, // what size should the node labels be?
           opacityScale: 5, // how quickly do we fade out the labels when zooming out?
           removeTags: ["Template", "Index"], // what tags to remove from the graph
           showTags: true, // whether to show tags in the graph
@@ -121,9 +121,9 @@ export const defaultListPageLayout: PageLayout = {
         zoom: true, // whether to allow zooming in and out
         depth: 2, // how many hops of notes to display
         scale: 3, // default view scale
-        repelForce: 0.2, // how much nodes should repel each other
+        repelForce: 0.4, // how much nodes should repel each other
         centerForce: 0.7, // how much force to use when trying to center the nodes
-        linkDistance: 20, // how long should the links be by default?
+        linkDistance: 15, // how long should the links be by default?
         fontSize: 0.20, // what size should the node labels be?
         opacityScale: 5, // how quickly do we fade out the labels when zooming out?
         removeTags: ["Index"], // what tags to remove from the graph
