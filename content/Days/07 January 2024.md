@@ -1,3 +1,11 @@
+---
+date: 2024-01-07
+tags:
+  - Day
+---
+
+[[06 January 2024|Previous]] | [[08 January 2024|Next]]
+
 # The First Letter
 
 I was planning today to be the day to write the first Write52 synthesis letter, but I couldn't manage to do it, partly because I still couldn't properly re-structure my daily schedule and routines, and partly because probably I couldn't feel quite ready to do that.
