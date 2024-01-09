@@ -1,6 +1,6 @@
 ---
 tags:
   - Books
-started: ""
-finished: ""
+started: 
+finished:
 ---
