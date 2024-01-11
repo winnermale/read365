@@ -1,3 +1,11 @@
+---
+date: 2024-01-09
+tags: Day
+---
+
+[[08 January 2024|Previous]] | [[10 January 2024|Next]]
+
+
 It is quite late over here, and I don't have much to say for today. But again, what matters is the stream of consciousness that pour outs of the intent to keep it going.
 
 ## Actually, I might have something to say.
