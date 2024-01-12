@@ -1,3 +1,11 @@
+---
+date: 2024-01-08
+tags: Day
+---
+
+[[07 January 2024|Previous]] | [[09 January 2024|Next]]
+
+
 Hey friends. Today, I will be doing the [2-hour reading session](https://youtube.com/live/mPwVTE1l8wI?feature=share) at 22:00 GMT+3. Meanwhile, you can just grab a book and I will catch up with you.
 
 ## Redefining the Read365 Brand
