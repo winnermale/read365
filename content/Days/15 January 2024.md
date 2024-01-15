@@ -5,7 +5,7 @@ tags: Day
 
 [[14 January 2024|Previous]] | [[16 January 2024|Next]]
 
--[I'll be streaming our reading together session](https://www.youtube.com/@read365org/streams) today at 19:00 GMT+3. Grab your book and let's read together.
+- [I'll be streaming our reading together session](https://www.youtube.com/@read365org/streams) today at 19:00 GMT+3. Grab your book and let's read together.
 	- I am also thinking of a few atomic improvements to enrich the experience of reading together gatherings on our YouTube harbor. Feel free to suggest what you would like to see there. One idea that I consider is to comment on the pages I just read during the 5-minute breaks, and spark some fresh conversation. (Though for now there's only me, so practically it would be a monologue.)
 
 ## Back on Track
