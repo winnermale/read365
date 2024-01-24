@@ -5,7 +5,10 @@ tags: Day
 
 [[20 January 2024|Previous]] | [[25 January 2024|Next]]
 
-Hey there! Just a heartbeat after a four day break, just to let you know that Read365 is not going anywherer. (Well, I desperately needed this comeback.)
+Hey there! Just a heartbeat after a four day break to let you know that Read365 is not going anywhere yet. (Well, I desperately needed this comeback.)
+
+Yesterday, I started reading [[Yazihane]] by *Murathan Mungan*. The book is a collection of essays by several writers, including Orwell and Ursula K. Le Guin, on why on earth writers write. Interesting read indeed if you want to get some insights on the nature of writing.
+## Responsibility to Write
 
 For all those who are over 30 and haven't published anything online to express themselves, I have to say that if you want to publish some notes online regularly for some reason, then you have to acknowledge that the act of writing is now more than a task. It is a habit, and therefore you must approach it again from perspective of habit building.
 
@@ -20,4 +23,4 @@ Let me make a list of the responsibilities that comes the mere intent to realize
 - Determine what to read next, that's fairly relevant to me at that particular time.
 - And on top of all above, actually experiment with what I distilled from the books I read, and try to implement them in my own life, and write down the observations in order to inform you about them in the synthesis letters.
 
-But why you should care? Everyone has stuff to do after all. Well, then you also start a blog and write down your own responsibilities, okay? This is what I am trying to inspire you all to do. Read the right thing. Let your mind synthesize what you read. Express yourself. Become visible to others. And spark new connections. Now go and write something.
+But why should you care? Everyone has stuff to do after all. Well, then you also start a blog and write down your own responsibilities, okay? This is what I am trying to inspire you all to do. Read the right thing. Let your mind synthesize what you read. Express yourself. Become visible to others. And spark new connections. Now go and write something.

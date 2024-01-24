@@ -1,6 +1,8 @@
 ---
 tags:
   - Books
-started: 
+started: 2024-01-23
 finished:
 ---
+
+Author:: Murathan Mungan
