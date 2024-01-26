@@ -20,6 +20,18 @@ export default (() => {
         <title>{title}</title>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-7GF3YCTR1R"></script>
+        <script>
+          {`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-7GF3YCTR1R');
+          `}
+        </script>
+
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
         {cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}
