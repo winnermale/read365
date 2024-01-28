@@ -3,7 +3,7 @@ date: 2024-01-25
 tags: Day
 ---
 
-[[24 January 2024|Previous]] | [[26 January 2024|Next]]
+[[24 January 2024|Previous]] | [[28 January 2024|Next]]
 
 Write in advance. 
 
