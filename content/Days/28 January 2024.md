@@ -3,7 +3,7 @@ date: 2024-01-28
 tags: Day
 ---
 
-[[25 January 2024|Previous]] | [[29 January 2024|Next]]
+[[25 January 2024|Previous]] | [[01 February 2024|Next]]
 
 Being busy is an illusion. Time is merely the conveyor belt that constantly throws stuff at your face. Don't mess with the time itself. Manage stuff effectively instead.
 
