@@ -3,7 +3,7 @@ date: 2024-02-13
 tags: Day
 ---
 
-[[02 February 2024|Previous]] | [[14 February 2024|Next]]
+[[02 February 2024|Previous]] | [[22 February 2024|Next]]
 
 After a huge break. I'm back.
 

@@ -3,7 +3,7 @@ date: 2024-02-02
 tags: Day
 ---
 
-[[01 February 2024|Previous]] | [[03 February 2024|Next]]
+[[01 February 2024|Previous]] | [[13 February 2024|Next]]
 
 I remember reading the wise words from a successful entrepreneur some years ago. It was on his particular approach to reading books, and it was something like this:
 
