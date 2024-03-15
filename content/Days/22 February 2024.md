@@ -3,7 +3,7 @@ date: 2024-02-22
 tags: Day
 ---
 
-[[13 February 2024]] | [[23 February 2024|Next]]
+[[13 February 2024]] | [[15 March 2024]]
 
 Listen to [this](https://www.youtube.com/watch?v=tkCsEsGQOog).
 
